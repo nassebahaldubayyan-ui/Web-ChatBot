@@ -205,7 +205,7 @@ After applying all fixes:
 The chatbot interface loaded successfully, but it was unable to generate responses due to backend configuration and deployment issues.
 
 <p align="center">
-  <img src="images/chatbot-before-fix.png" alt="Chatbot Before Fix" width="800">
+  <img src="images/chatbot-before-fix.png" alt="Chatbot Before Fix" width="500">
 </p>
 
 ---
@@ -215,6 +215,6 @@ The chatbot interface loaded successfully, but it was unable to generate respons
 After resolving the file path issues, hosting restrictions, API configuration, and Gemini model compatibility, the chatbot successfully communicates with the backend and generates AI responses.
 
 <p align="center">
-  <img src="images/chatbot-after-fix.png" alt="Chatbot After Fix" width="800">
+  <img src="images/chatbot-after-fix.png" alt="Chatbot After Fix" width="500">
 </p>
 
